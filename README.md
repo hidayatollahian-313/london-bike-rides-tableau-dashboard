@@ -32,7 +32,7 @@ This project presents a data visualization dashboard analyzing London bike ride 
 The dataset includes information about bike rides in London, including ride counts, dates, temperature, and wind speed.
 
 ## Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## Project Purpose
 The purpose of this project is to demonstrate data analysis and visualization skills by exploring real-world data and identifying patterns that can help in decision-making and urban planning.
