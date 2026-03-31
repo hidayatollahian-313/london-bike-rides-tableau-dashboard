@@ -49,7 +49,9 @@ The dashboard transforms raw ride data into a clear and structured visual story,
 ## Tools & Technologies
 
 - Tableau – Data visualization and dashboard development  
-- Excel / CSV – Data preprocessing and cleaning  
+- Python (Jupyter Notebook) – Data cleaning and preprocessing  
+- Pandas – Data manipulation and transformation  
+- Excel / CSV – Data source    
 
 ---
 
@@ -75,9 +77,10 @@ This dashboard provides valuable insights for:
 
 London-Bike-Rides-Dashboard  
 ├── Tableau Workbook (.twbx)  
+├── london_bikes.ipynb  
 ├── Dataset  
 ├── Screenshots  
-└── README.md  
+└── README.md   
 
 ---
 
