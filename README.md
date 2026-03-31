@@ -114,8 +114,8 @@ This project demonstrates the ability to analyze large datasets and convert them
 
 ## Connect
 
-LinkedIn: [[Your LinkedIn Link]](https://www.linkedin.com/in/hidayat-ullah-5060743b6/)  
-GitHub: [[Your GitHub Profile]](https://github.com/hidayatollahian-313)  
+LinkedIn: [[Your LinkedIn Link] ](https://www.linkedin.com/in/hidayat-ullah-5060743b6/) 
+GitHub: [Your GitHub Profile]  
 
 ---
 
