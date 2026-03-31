@@ -1,38 +1,124 @@
-# London Bike Rides Dashboard
+# London Bike Rides Analysis Dashboard (Tableau)
 
 ## Project Overview
-This project presents a data visualization dashboard analyzing London bike ride data using Tableau. The dashboard focuses on understanding ride patterns, trends over time, and the relationship between weather conditions and bike usage.
+This project presents an interactive Tableau dashboard analyzing bike-sharing usage patterns in London. The goal is to uncover meaningful insights into ride demand, temporal trends, and the influence of weather conditions on user behavior.
+
+The dashboard transforms raw ride data into a clear and structured visual story, enabling data-driven decision-making for urban mobility and transportation planning.
+
+---
 
 ## Objectives
-- Analyze total bike rides over a specific time period
-- Identify trends using moving averages
-- Explore the relationship between temperature and wind speed
-- Understand how weather impacts bike ride frequency
+- Analyze overall bike usage trends over time  
+- Identify seasonal patterns and demand fluctuations  
+- Examine the impact of weather conditions on ride frequency  
+- Provide insights into peak usage periods  
 
-## Tools Used
-- Tableau
-- Data Visualization
-- Exploratory Data Analysis (EDA)
+---
 
 ## Key Insights
-- A total of 1,904,786 bike rides were recorded during the selected period.
-- The 14-day moving average shows clear trends and fluctuations in bike usage over time.
-- Bike rides tend to increase during moderate temperatures.
-- High wind speeds and extreme temperatures may reduce the number of rides.
-- Seasonal patterns are visible in ride activity.
+
+- Total rides exceeded 1.9 million within the selected timeframe  
+- Strong seasonal patterns observed, with higher demand in warmer months  
+- Noticeable decline in rides during colder periods  
+- Clear relationship between temperature and ride frequency  
+- Demand fluctuations stabilized using a 14-day moving average  
+- Peak usage observed during specific high-activity periods  
+
+---
 
 ## Dashboard Features
-- Time series analysis of bike rides
-- 14-day moving average trend line
-- Interactive filters for selecting time periods
-- Heatmap showing relationship between temperature and wind speed
-- Dynamic controls for adjusting moving average duration
 
-## Dataset Information
-The dataset includes information about bike rides in London, including ride counts, dates, temperature, and wind speed.
+### Time-Series Analysis
+- Daily ride trends visualized over time  
+- 14-day moving average to highlight overall patterns and reduce noise  
+
+### Weather Impact Analysis
+- Correlation between temperature and ride demand  
+- Analysis of weather variables such as wind speed and conditions  
+
+### Trend Identification
+- Detection of peak and low-demand periods  
+- Seasonal behavior visualization  
+
+### Interactive Design
+- User-friendly layout for intuitive exploration  
+- Filters for dynamic data analysis  
+
+---
+
+## Tools & Technologies
+
+- Tableau – Data visualization and dashboard development  
+- Excel / CSV – Data preprocessing and cleaning  
+
+---
+
+## Data Analysis Approach
+
+- Cleaned and prepared raw ride data for analysis  
+- Applied time-series techniques to identify trends and seasonality  
+- Integrated weather data to analyze external impact on demand  
+- Used moving averages to smooth fluctuations and improve insight clarity  
+
+---
+
+## Business Value
+
+This dashboard provides valuable insights for:
+- Urban planners to optimize bike availability  
+- Transportation services to manage demand efficiently  
+- Decision-makers to understand environmental impacts on usage  
+
+---
+
+## Project Structure
+
+London-Bike-Rides-Dashboard  
+├── Tableau Workbook (.twbx)  
+├── Dataset  
+├── Screenshots  
+└── README.md  
+
+---
+
+## How to Use
+
+1. Download the Tableau workbook file  
+2. Open using Tableau Desktop or Tableau Public  
+3. Interact with filters and visuals to explore trends  
+
+---
 
 ## Dashboard Preview
+
 ![Dashboard](Dashboard.png)
 
-## Project Purpose
-The purpose of this project is to demonstrate data analysis and visualization skills by exploring real-world data and identifying patterns that can help in decision-making and urban planning.
+---
+
+## Skills Demonstrated
+
+- Data Visualization  
+- Time-Series Analysis  
+- Data Storytelling  
+- Analytical Thinking  
+- Dashboard Design  
+- Business Insight Generation  
+
+---
+
+## Conclusion
+
+This project demonstrates the ability to analyze large datasets and convert them into actionable insights. It highlights how data visualization can be leveraged to understand real-world patterns and support strategic decision-making.
+
+---
+
+## Connect
+
+LinkedIn: [[Your LinkedIn Link]](https://www.linkedin.com/in/hidayat-ullah-5060743b6/)  
+GitHub: [[Your GitHub Profile]](https://github.com/hidayatollahian-313)  
+
+---
+
+## Support
+
+If you found this project useful, consider giving it a star on GitHub.
